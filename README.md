@@ -23,13 +23,13 @@ Each board file has exactly 9 lines, each with 9 digits.
 
 ## Files
 
-- `23F-0697_Lab11_BCS6E.ipynb`: Main implementation and execution
+- `23F-0697_AI_A5_BCS6E.ipynb`: Main implementation and execution
 - `easy.txt`, `medium.txt`, `hard.txt`, `veryhard.txt`: Sudoku puzzle inputs
 - `sudoku_results.txt`: Example output summary and solved boards
 
 ## How To Run
 
-1. Open `23F-0697_Lab11_BCS6E.ipynb` in Jupyter (VS Code or Jupyter Notebook).
+1. Open `23F-0697_AI_A5_BCS6E.ipynb` in Jupyter (VS Code or Jupyter Notebook).
 2. Make sure Python 3 is selected as kernel.
 3. Run all cells from top to bottom.
 4. The notebook will:
